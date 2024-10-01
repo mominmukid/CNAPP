@@ -1,0 +1,19 @@
+{
+  "categories": [
+    
+    {
+      "id": "2",
+      "category": "CWPP",
+      "name": "cloud workload protection platform",
+      "text": "assess the applications and software running in your cloud environments "
+    },
+    {
+      "id": "3",
+      "category": "Registry Scan",
+      "name": "Registry Scan",
+      "text": "provides you with an ability of searching for the Windows registry items matching a defined criteria any time you want."
+    }
+    
+
+  ]
+}
